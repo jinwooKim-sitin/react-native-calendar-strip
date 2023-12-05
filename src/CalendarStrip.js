@@ -115,7 +115,7 @@ class CalendarStrip extends Component {
     innerStyle: { flex: 1 },
     maxDayComponentSize: 80,
     minDayComponentSize: 10,
-    shouldAllowFontScaling: true,
+    shouldAllowFontScaling: false,
     markedDates: [],
     useNativeDriver: true,
     scrollToOnSetSelectedDate: true,
